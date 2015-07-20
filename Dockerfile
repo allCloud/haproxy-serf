@@ -1,4 +1,4 @@
-FROM ctlc/haproxy
+FROM  index.alauda.cn/yongfeng/haproxy
 MAINTAINER Lucas Carlson <lucas@rufy.com>
 
 # Let's get serf
